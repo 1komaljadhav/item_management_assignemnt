@@ -14,8 +14,6 @@ A simple full-stack application to manage a collection of items with image uploa
 - Add new items with name, type, description, and cover image.
 - Upload multiple images for each item.
 - Retrieve and display all items with their associated images.
-- Clean and simple REST API structure.
-
 ---
 
 ## 🛠️ Tech Stack
