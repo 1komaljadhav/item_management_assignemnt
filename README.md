@@ -6,7 +6,6 @@ A simple full-stack application to manage a collection of items with image uploa
 - 🖼️ MySQL (Database)
 - ⚛️ React.js (Frontend)
 - 📸 Multer (for image upload)
-- 📁 REST API support
 
 ---
 
